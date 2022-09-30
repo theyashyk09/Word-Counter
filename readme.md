@@ -6,6 +6,10 @@ This is a word counter developed using html, tailwindcss and javascript which ca
 
 ## Video
 
+https://user-images.githubusercontent.com/109405477/193335067-916cef3e-d9e2-418d-9327-6fdc3f98823a.mp4
+
+
+
 **Check it out at : https://wordcharcounter.netlify.app/**
 
 ## 🚀 About Me
